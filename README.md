@@ -1,5 +1,5 @@
 # Reading_notes_class07
-## Programació con JavasScript
+## Programación con JavasScript
 
 ### ¿Qué es “Control Flow” (Control de Flujo)?
 El control de flujo permite a los programadores tomar decisiones y ejecutar diferentes bloques de código en función de condiciones específicas, esto se llega a entender mediante codigos condicionales como `If`, `Else`.
