@@ -9,7 +9,7 @@ El control de flujo permite a los programadores tomar decisiones y ejecutar dife
 Una "function" en JavaScript es un bloque de código reutilizable que realiza una tarea específica cuando se llama o se invoca
 
 ### ¿Qué significa “invoke” o “call” en una función?
-La terminologia de "invoke" o "call" se refiere al acto de ejecutar o activar una función para que realice su tarea en específica.
+La terminología de "invoke" o "call" se refiere al acto de ejecutar o activar una función para que realice su tarea en específica.
 
 ### ¿Para qué sirven los paréntesis `()` cuando defines una función?
 Los paréntesis () en la definición de una función en JavaScript se utilizan para declarar los parámetros que la función puede recibir cuando se invoca
